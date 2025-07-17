@@ -6,8 +6,8 @@ O sistema segue as instruções propostas na Atividade 04 da disciplina DCA3604 
 ## Como executar
 
 1. Crie o banco de dados PostgreSQL:
-   - Nome: `veterinaria_db`
-   - Usuário e senha devem ser ajustados em `database.py`
+- Nome: `veterinaria_db`
+- Usuário e senha devem ser ajustados em `database.py`
 
 2. Instale as dependências:
 ```bash
