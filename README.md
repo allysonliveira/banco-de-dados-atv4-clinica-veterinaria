@@ -1,4 +1,8 @@
-# Sistema de Clinica Veterinária - Projeto Final - Bancos de Dados
+# Sistema de Gerenciamento de Clínicas Veterinárias - Projeto Final - Banco de Dados
+
+Este projeto é uma API RESTful desenvolvida com FastAPI, SQLAlchemy e PostgreSQL para gerenciar clínicas veterinárias, seus profissionais, tutores, pets e atendimentos.
+O sistema segue as instruções propostas na Atividade 04 da disciplina DCA3604 - BANCO DE DADOS.
+
 ## Como executar
 
 1. Crie o banco de dados PostgreSQL:
@@ -34,11 +38,6 @@ Acesse a documentação automática gerada pelo Swagger:
 Você pode editar e rodar este projeto diretamente no navegador com o GitHub Codespaces (requer login):
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=SEU_REPOSITORIO&quickstart=1)
-
-# Sistema de Gerenciamento de Clínicas Veterinárias
-
-Este projeto é uma API RESTful desenvolvida com FastAPI, SQLAlchemy e PostgreSQL para gerenciar clínicas veterinárias, seus profissionais, tutores, pets e atendimentos.
-O sistema segue as instruções propostas na Atividade 04 da disciplina DCA3604 - BANCO DE DADOS.
 
 
 
